@@ -1,0 +1,10 @@
+image: rust:latest
+
+
+stages:
+  - Test
+  - Build
+  - Push
+  - Deploy
+
+
